@@ -16,4 +16,9 @@ O PyBot é um exemplo de como a inteligência artificial está democratizando o 
 
 ## Um Passo em Direção ao Futuro
 
-Este projeto representa não apenas um chatbot funcional, mas também um testemunho do potencial da colaboração entre humanos e inteligência artificial. Através de _prompts_ e instruções, fui capaz de guiar o modelo de linguagem do Google na criação do PyBot, mostrando que a barreira da programação pode ser superada com criatividade e as ferramentas c
+Este projeto representa não apenas um chatbot funcional, mas também um testemunho do potencial da colaboração entre humanos e inteligência artificial. Através de _prompts_ e instruções, fui capaz de guiar o modelo de linguagem do Google na criação do PyBot, mostrando que a barreira da programação pode ser superada com criatividade e as ferramentas certas.
+
+## Observação
+
+É importante destacar que tanto o código do projeto quanto este texto de apresentação foram gerados pelo modelo de linguagem do Google, a partir de _prompts_ e instruções minhas. 
+Acrescentei o arquivo completo da interação com o AI Studio que resultou na criação do PyBot.
